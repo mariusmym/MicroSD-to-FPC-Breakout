@@ -66,7 +66,6 @@ Yes, that's the whole shopping list.
 
 This project is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
-In human words:
 - ✅ **Share** – copy and redistribute it in any medium or format
 - ✅ **Adapt** – remix, transform, and build upon it
 - 🏷️ **Attribution** – give credit and link back here
