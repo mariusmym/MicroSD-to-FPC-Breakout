@@ -4,7 +4,7 @@ A tiny PCB shaped like a microSD card. Push it into any **microSD slot** and the
 
 <p align="center">
   <img src="Images/render_fpc_side.png" width="45%" alt="FPC connector side">
-  <img src="Images/render_pinout_side.png" width="45%" alt="Pinout side">
+  <img src="Images/render_pinout_side.png" width="42%" alt="Pinout side">
 </p>
 
 ## What can you do with it? 
