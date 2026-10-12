@@ -1,6 +1,7 @@
 # MicroSD to FPC Breakout
 
 A tiny PCB shaped like a microSD card. Push it into any **microSD slot** and the slot's signals come out on an **8-pin FPC connector** and a row of **solder pads**. Your device thinks it's talking to an SD card; it's actually talking to whatever you connected on the other end. 
+
 Sneaky... but in a good way.
 
 <p align="center">
